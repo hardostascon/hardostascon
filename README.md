@@ -69,7 +69,6 @@ Sistema CRUD para gestión de productos con enfoque en claridad y escalabilidad.
 
 - ✅ Desarrollo backend sólido con enfoque en calidad y rendimiento
 - ✅ Experiencia en QA, pruebas automatizadas y aseguramiento de calidad
-- ✅ Comunicación profesional en español, inglés y portugués
 - ✅ Documentación clara, narrativa técnica y trabajo colaborativo
 - ✅ Mentalidad orientada a resultados y mejora continua
 
